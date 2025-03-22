@@ -23,7 +23,6 @@ Para rodar o projeto, é necessário ter o [Git](https://git-scm.com/) e o [Pyth
 ## ▶️ Como Rodar  
 
 ```bash
-bashCopy code
 # Clone do projeto
 $ git clone https://github.com/DihO23/fake_pinterest.git
 

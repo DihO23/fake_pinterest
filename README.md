@@ -43,9 +43,6 @@ $ cd fake_pinterest
 # Instalar dependências
 $ pip install -r requirements.txt
 
-# Executar o script para criar o banco de dados
-$ python criarbanco.py
-
 # Executar a aplicação
 $ python main.py
 

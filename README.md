@@ -16,7 +16,7 @@ Este projeto foi construído com as seguintes tecnologias:
 ✅ Cadastro e gerenciamento de contas de usuário.
 
 <div align="center">
-<img src="https://github.com/DihO23/fake_pinterest/issues/1#issue-2940456047" width="1000px" />
+<img src="https://github.com/user-attachments/assets/6389c18c-7b3d-47d8-a712-620de89b1759" width="1000px" />
 </div>
 <br>
 ✅ Envio e exibição de imagens organizadas em um painel interativo.  

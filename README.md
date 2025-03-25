@@ -43,6 +43,9 @@ $ cd fake_pinterest
 # Instalar dependências
 $ pip install -r requirements.txt
 
+# Criar o Banco de Dados de Usuários
+$ python criarbanco.py
+
 # Executar a aplicação
 $ python main.py
 

@@ -35,7 +35,7 @@ Para rodar o projeto, é necessário ter o [Git](https://git-scm.com/) e o [Pyth
 
 ```bash
 # Clone do projeto
-$ git clone https://github.com/DihO23/fake_pinterest.git
+$ git clone https://github.com/diegoolinek/fake_pinterest.git
 
 # Entrar no diretório
 $ cd fake_pinterest
